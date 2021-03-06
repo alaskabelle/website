@@ -1,9 +1,8 @@
 body {
-	background: rgb(255, 143, 205);
+	background-image: url(/img/gumdropwallpaper2.png);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center;
-	background-image: url(/img/gumdropwallpaper2.png);
 	font-family: 'Inter', sans-serif;
 	
 	padding: 0;
